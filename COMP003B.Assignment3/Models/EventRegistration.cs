@@ -22,5 +22,7 @@ namespace COMP003B.Assignment3.Models
         [Range(1,10, ErrorMessage = "Tickets Must be Between 1 and 10")]
         public int Tickets { get; set; }
 
+        public string? ReferralCode { get; set; }
+
     }
 }

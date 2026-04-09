@@ -11,7 +11,7 @@ namespace COMP003B.Assignment3.Controllers
         {
             EventRegistration registration = new EventRegistration();
             {
-                EventCode = eventCode
+                eventCode = eventCode
             };
 
             return View(registration);
