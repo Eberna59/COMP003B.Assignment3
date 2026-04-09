@@ -1,3 +1,10 @@
+/* Evan Berna
+ * COMP-003B
+ * Jonathan Cruz
+ * Allows users to register for events
+ */
+
+
 namespace COMP003B.Assignment3
 {
     public class Program
